@@ -19,6 +19,7 @@ This package is used to check what your device's RD limit is. Only works in **Mi
 - If you see **WHITE** (any color is fine, as long as \*it's not **BLACK\***) then **IT WORKS!**
 - **BLACK (or CRASH)** DOES **NOT WORK**.
 - PURPLE WITH BLACK IS FAULTY(NOT WORK)
+
   > [!CAUTION]
   > Before returning to `start_screen`, you should set Resolution **from LOW to HIGH** to avoid _CRASH GAME_. If this situation continues, _the game will temporarily delay loading the pack to give you time to remove the pack_, at this time set the Resolution to _a lower level_.
 
