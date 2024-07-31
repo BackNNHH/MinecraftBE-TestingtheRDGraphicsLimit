@@ -1,0 +1,1 @@
+{"start_screen_content":{"type":"panel","controls":[{"null":{"type":"image","texture":"null","fill":true,"layer":-1}},{"b":{"type":"panel","anchor_from":"top_right","anchor_to":"top_right","size":["10%","10%"],"controls":[{"settings_button@start.settings_button":{}}]}}]}}
